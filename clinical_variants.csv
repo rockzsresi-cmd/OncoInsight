@@ -1,0 +1,9 @@
+Gene,Variant,Disease,Therapy,Clinical Significance,Evidence
+EGFR,L858R,Non-Small Cell Lung Cancer,Osimertinib,Pathogenic,ClinVar
+EGFR,Exon19del,Non-Small Cell Lung Cancer,Afatinib,Pathogenic,ClinVar
+BRAF,V600E,Melanoma,Dabrafenib + Trametinib,Pathogenic,ClinVar
+ALK,Fusion,Lung Cancer,Alectinib,Pathogenic,CIViC
+BRCA1,185delAG,Breast Cancer,PARP Inhibitors,Pathogenic,ClinVar
+KRAS,G12C,Lung Cancer,Sotorasib,Pathogenic,FDA
+PIK3CA,H1047R,Breast Cancer,Alpelisib,Likely Pathogenic,ClinVar
+TP53,R248Q,Multiple Cancers,No Approved Targeted Therapy,Pathogenic,ClinVar
