@@ -1,13 +1,13 @@
 import streamlit as st
 import pandas as pd
 
-from modules.sequence import analyze_sequence
-from modules.gene_explorer import search_gene
-from modules.mutation_analyzer import compare_sequences
-from modules.gene_expression import analyze_expression
-from modules.clinical_variant import search_variant
-from reports.report_generator import generate_clinical_report
-from modules.myvariant import search_myvariant
+from sequence import analyze_sequence
+from gene_explorer import search_gene
+from mutation_analyzer import compare_sequences
+from gene_expression import analyze_expression
+from clinical_variant import search_variant
+from report_generator import generate_clinical_report
+from myvariant import search_myvariant
 
 # ----------------------------------
 # Page Configuration
@@ -1108,3 +1108,4 @@ expression analysis and clinical variant interpretation.
 
 Version **0.5 Beta**
 """)
+
