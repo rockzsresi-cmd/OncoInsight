@@ -774,6 +774,9 @@ information, targeted therapies, clinical evidence and supporting resources.
                 gene,
                 variant
             )
+st.write("Gene entered:", gene)
+st.write("Variant entered:", variant)
+st.write(result)
 
             if not result.empty:
 
