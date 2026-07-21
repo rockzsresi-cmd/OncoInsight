@@ -770,16 +770,10 @@ information, targeted therapies, clinical evidence and supporting resources.
 
         if gene and variant:
 
-                        result = search_variant(
+            result = search_variant(
                 gene,
                 variant
             )
-
-            st.write("Gene entered:", gene)
-            st.write("Variant entered:", variant)
-            st.write(result)
-
-            if not result.empty:
 
             if not result.empty:
 
